@@ -1,1 +1,22 @@
-["index.md"]
+[
+    "index.md",
+    "introduction.md",
+    "agenda.md",
+    "extensionmethod00.md",
+    "extensionmethod01.md",
+    "extensionmethod02.md",
+    "antipattern00.md",
+    "antipattern01.md",
+    "okpattern00.md",
+    "okpattern01.md",
+    "okpattern02.md",
+    "okpattern03.md",
+    "okpattern04.md",
+    "okpattern05.md",
+    "okpattern06.md",
+    "technique00.md",
+    "technique01.md",
+    "summary.md",
+    "summary01.md",
+    "finish.md"
+]

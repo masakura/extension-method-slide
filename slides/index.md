@@ -1,4 +1,5 @@
-# .NET Framework 拡張メソッド
+# .NET Framework
+# 拡張メソッド
 
 政倉 智
 
