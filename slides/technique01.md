@@ -1,6 +1,6 @@
 ### 名前空間を揃える
 
-* Customer 型と CustomerExtens 型の名前空間を揃える
+* Customer 型と CustomerExtension 型の名前空間を揃える
   - IntelliSense が効きます!
 * アセンブリが別でも名前空間を揃える
 
